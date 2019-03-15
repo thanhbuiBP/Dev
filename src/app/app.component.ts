@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Http, Response, Headers  } from '@angular/http';
-// import { HttpClientModule } from '@angular/common/http';
+//import { HttpClientModule } from '@angular/common/http';
 import { map } from 'rxjs/operators'
 import {HttpClient, HttpHeaders} from '@angular/common/http';
 import { RestService  } from './rest.service'
